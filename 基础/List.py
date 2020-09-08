@@ -37,7 +37,7 @@ for color in colors:
     print(color + '\n')
 
 #创建数值列表
-# range()返回的是一个可迭代对象，并不是列表
+# python3中range()返回的是一个可迭代对象，并不是列表
 for value in range(1,5):
     print(value)
 print(range(1,5)) # output : range(1,5)
