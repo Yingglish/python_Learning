@@ -1,5 +1,7 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.pythonPath": "D:\\Program Files\\Python\\python.exe",
-    "python.formatting.provider": "yapf"
+    "python.pythonPath": "D:\\miniconda3\\python.exe",
+    "python.formatting.provider": "yapf",
+    "jupyter.jupyterServerType": "local",
+    "git.ignoreLimitWarning": true
 }
